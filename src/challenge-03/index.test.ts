@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import { drawGift } from './index.ts';
 
 describe('Challenge #03 - 👶 Help the intern', () => {
-  it('Test #01 - Returns an string', () => {
+  it('Test #01 - Returns a string', () => {
     const result = drawGift(1, '+');
     const expected = 'string';
     assert.strictEqual(typeof result, expected);

@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import { decodeSantaPin } from './index.ts';
 
 describe('Challenge #04 - 🧮 Decipher the Santa PIN', () => {
-  it('Test #01 - Returns an string', () => {
+  it('Test #01 - Returns a string', () => {
     const result = decodeSantaPin('[1++][2-][3+][<]');
     const expected = 'string';
     assert.strictEqual(typeof result, expected);
