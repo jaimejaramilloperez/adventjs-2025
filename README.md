@@ -267,6 +267,28 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">12</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/6c8f67ab-8b82-4c4f-b36e-10d8fea8a53a" alt="challenge #12" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-12/README.md"><strong>⚔️ Elf battle</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Medium-E3A008" alt="medium" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-12/index.ts">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-12/index.test.ts">
+          <img src="https://img.shields.io/badge/Tests-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 

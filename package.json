@@ -33,7 +33,8 @@
     "challenge8": "node --test ./src/challenge-08/index.test.ts",
     "challenge9": "node --test ./src/challenge-09/index.test.ts",
     "challenge10": "node --test ./src/challenge-10/index.test.ts",
-    "challenge11": "node --test ./src/challenge-11/index.test.ts"
+    "challenge11": "node --test ./src/challenge-11/index.test.ts",
+    "challenge12": "node --test ./src/challenge-12/index.test.ts"
   },
   "devDependencies": {
     "@types/node": "24.9.2",
