@@ -27,7 +27,8 @@
     "challenge2": "node --test ./src/challenge-02/index.test.ts",
     "challenge3": "node --test ./src/challenge-03/index.test.ts",
     "challenge4": "node --test ./src/challenge-04/index.test.ts",
-    "challenge5": "node --test ./src/challenge-05/index.test.ts"
+    "challenge5": "node --test ./src/challenge-05/index.test.ts",
+    "challenge6": "node --test ./src/challenge-06/index.test.ts"
   },
   "devDependencies": {
     "@types/node": "24.9.2",
