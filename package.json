@@ -18,5 +18,14 @@
     "challenge",
     "javascript",
     "typescript"
-  ]
+  ],
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "devDependencies": {
+    "@types/node": "24.9.2",
+    "eslint": "9.38.0",
+    "neostandard": "0.12.2"
+  }
 }
