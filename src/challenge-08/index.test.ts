@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import { findUniqueToy } from './index.ts';
 
 describe('Challenge #08 - 🎁 Find the unique toy', () => {
-  it('Test #01 - Returns a number', () => {
+  it('Test #01 - Returns a string', () => {
     const result = findUniqueToy('Gift');
     const expected = 'string';
     assert.strictEqual(typeof result, expected);
