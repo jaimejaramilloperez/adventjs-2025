@@ -1,7 +1,7 @@
 {
   "name": "adventjs-2025",
   "version": "1.0.0",
-  "description": "Solution to the Adventjs 2024 challenges by @midudev",
+  "description": "Solution to the Adventjs 2025 challenges by @midudev",
   "type": "module",
   "author": "Jaime Jaramillo Pérez",
   "license": "ISC",
@@ -21,7 +21,9 @@
   ],
   "scripts": {
     "lint": "eslint",
-    "lint:fix": "eslint --fix"
+    "lint:fix": "eslint --fix",
+    "challenges": "node --test",
+    "challenge1": "node --test ./src/challenge-01/index.test.ts"
   },
   "devDependencies": {
     "@types/node": "24.9.2",
