@@ -25,7 +25,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     </td>
   </thead>
   <tbody>
-     <tr>
+    <tr>
       <td align="center">01</td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/311052b4-870a-4674-af7c-ee48aeaddb39" alt="challenge #01" width="25" height="30" />
@@ -47,7 +47,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
         </a>
       </td>
     </tr>
-     <tr>
+    <tr>
       <td align="center">02</td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/df99903a-ea93-4d18-abd0-b946e21a6b70" alt="challenge #02" width="30" height="30" />
@@ -65,6 +65,28 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
       </td>
       <td align="center">
         <a href="/src/challenge-02/index.test.ts">
+          <img src="https://img.shields.io/badge/Tests-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">03</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/9cbe4eca-8053-4ea1-a6af-b67889c52d8b" alt="challenge #03" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-03/README.md"><strong>👶 Help the intern</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Easy-77A626" alt="easy" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-03/index.ts">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-03/index.test.ts">
           <img src="https://img.shields.io/badge/Tests-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
